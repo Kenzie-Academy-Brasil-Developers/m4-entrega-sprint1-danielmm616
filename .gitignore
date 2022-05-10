@@ -1,0 +1,7 @@
+/node_modules
+*.lock
+get*
+up*
+del*
+user*
+list*
